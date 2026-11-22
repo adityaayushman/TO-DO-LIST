@@ -2,7 +2,7 @@
 
 **Live demo:** https://adityaayushman.github.io/TO-DO-LIST/
 
-A minimal to-do list in plain HTML, CSS and JavaScript. No frameworks, no build step.
+A minimal to-do list in plain HTML, CSS and JavaScript, built while following the course. No frameworks, no build step.
 
 ## Features
 
@@ -30,3 +30,7 @@ npx serve .
 ## Notes
 
 Data is stored only in your browser. Clearing site data removes your todos.
+
+## Credits
+
+This is an exercise from the [50 Projects in 50 Days](https://github.com/bradtraversy/50projects50days) course by Brad Traversy (original: `todo-list`). The JavaScript and CSS are unchanged from the original, and the HTML has small edits. It is used under the MIT license in `LICENSE`.
